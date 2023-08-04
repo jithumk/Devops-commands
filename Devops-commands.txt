@@ -1,0 +1,54 @@
+ls
+    2  sudo apt update
+    3  sudo apt install openjdk-11-jdk
+    4  ls
+    5  sudo apt install git -y
+    6  sudo git clone https://github.com/jithumk/spring-petclinic.git
+    7  ls
+    8  cd spring-petclinic/
+    9  ls
+   10  mvn clean install
+   11  sudo mvn clean install
+   12  sudo apt install maven -y
+   13  sudo mvn clean install
+   14  sudo mvn clean install sudo apt install openjdk-17-jdk
+   15  cd ..
+   16  ls
+   17  sudo apt update
+   18  sudo apt upgrade
+   19  java --version
+   20  dpkg --list | grep -i jdk
+   21  sudo apt remove openjdk-11-jdk
+   22  java --version
+   23  dpkg --list | grep -i jdk
+   24  sudo apt remove openjdk-11-jdk
+   25  sudo apt purge openjdk-11-jdk
+   26  sudo apt remove package_name
+   27  sudo apt purge package_name
+   28  sudo apt autoremove
+   29  java --version
+   30  javac -version
+   31  sudo update-alternatives --list java
+   32  apt install openjdk-17-jdk-headless
+   33  javac -version
+   34  java -version
+   35  ls
+   36  cd spring-petclinic/
+   37  ls
+   38  mvn clean install
+   39  java --version
+   40  ls
+   41  sudo git clone https://github.com/jithumk/spring-petclinic.git
+   42  ls
+   43  cd spring-petclinic/
+   44  ls
+   48  mvn -version
+   49  ls
+   50  mvn clean install
+   51  ls
+   52  cd target/
+   53  ls
+   54  screen
+   55   56  netstat -tplun
+   57  apt install net-tools
+   58  netstat -tplun
